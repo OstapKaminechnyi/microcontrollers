@@ -15,6 +15,8 @@ void loop() {
     if (inByte == 0xA1) {
       PORTK = B00000000;
       delay(800);
+      PORTK = B10000000;
+      delay(800);
       PORTK = B01000000;
       delay(800);
       PORTK = B00100000;
@@ -26,8 +28,6 @@ void loop() {
       PORTK = B00000100;
       delay(800);
       PORTK = B00000010;
-      delay(800);
-      PORTK = B00000001;
       delay(800);
     } else if (inByte == 0xB1) {
       PORTK = B10000001;

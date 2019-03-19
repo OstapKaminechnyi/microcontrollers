@@ -93,58 +93,58 @@ namespace WindowsFormsApplication1
                     if (algorithmCount < 9) {
                         switch (algorithmCount)
                         {
-                            case 1:
-                                panel1.BackColor = Color.Red;
-                                break;
-                            case 2:
-                                panel2.BackColor = Color.Red;
-                                break;   
-                            case 3:
-                                panel3.BackColor = Color.Red;
-                                break;
-                            case 4:
-                                panel4.BackColor = Color.Red;
-                                break;
-                            case 5:
-                                panel5.BackColor = Color.Red;
-                                break;
-                            case 6:
-                                panel6.BackColor = Color.Red;
-                                break;
-                            case 7:
-                                panel7.BackColor = Color.Red;
-                                break;
-                            case 8:
-                                panel8.BackColor = Color.Red;
-                                break;
-                            } 
-                        }
+                        case 1:
+                            panel1.BackColor = Color.Red;
+                            break;
+                        case 2:
+                            panel2.BackColor = Color.Red;
+                            break;
+                        case 3:
+                            panel3.BackColor = Color.Red;
+                            break;
+                        case 4:
+                            panel4.BackColor = Color.Red;
+                            break;
+                        case 5:
+                            panel5.BackColor = Color.Red;
+                            break;
+                        case 6:
+                            panel6.BackColor = Color.Red;
+                            break;
+                        case 7:
+                            panel7.BackColor = Color.Red;
+                            break;
+                        case 8:
+                            panel8.BackColor = Color.Red;
+                            break;
+                        } 
+                    }
                     
-                    }
-                if (algorithmNumber == 2)
+                }
+            if (algorithmNumber == 2)
+            {
+                if (algorithmCount < 5)
                 {
-                    if (algorithmCount < 5)
+                    switch (algorithmCount)
                     {
-                        switch (algorithmCount)
-                        {
-                            case 1:
-                                panel1.BackColor = Color.Red;
-                                panel8.BackColor = Color.Red;
-                                break;
-                            case 2:
-                                panel2.BackColor = Color.Red;
-                                panel7.BackColor = Color.Red;
-                                break;  
-                            case 3:
-                                panel3.BackColor = Color.Red;
-                                panel6.BackColor = Color.Red;
-                                break;
-                            case 4:
-                                panel4.BackColor = Color.Red;
-                                panel5.BackColor = Color.Red;
-                                break;
-                        }
+                        case 1:
+                            panel1.BackColor = Color.Red;
+                            panel8.BackColor = Color.Red;
+                            break;
+                        case 2:
+                            panel2.BackColor = Color.Red;
+                            panel7.BackColor = Color.Red;
+                            break;
+                        case 3:
+                            panel3.BackColor = Color.Red;
+                            panel6.BackColor = Color.Red;
+                            break;
+                        case 4:
+                            panel4.BackColor = Color.Red;
+                            panel5.BackColor = Color.Red;
+                            break;
                     }
+                }
             }
         }
 

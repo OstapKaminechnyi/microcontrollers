@@ -26,5 +26,5 @@ C:\Users\Mykhailo\Desktop\lab_02\COM_port\WindowsFormsApplication1\WindowsFormsA
 C:\Users\Mykhailo\Desktop\lab_02\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Mykhailo\Desktop\lab_02\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
 C:\Users\Mykhailo\Desktop\lab_02\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
-D:\Programming\lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
-D:\Programming\lab2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Repo\microcontrollers\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Repo\microcontrollers\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
