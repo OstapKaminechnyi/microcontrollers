@@ -71,14 +71,14 @@ void ellipse()
   set_Motorspeed(30,255);
   delay(1000);
 
-  set_Motorspeed(140,255);
+  set_Motorspeed(150,255);
   delay(1300);  
 
   set_Motorspeed(0,255);
-  delay(500); 
+  delay(500);
 
-//  set_Motorspeed(255,255);
-//  delay(2000); 
+  set_Motorspeed(75,200);
+  delay(2000); 
   
  }
 
